@@ -58,6 +58,7 @@
   },
   "dependencies": {
     "@extractus/oembed-extractor": "3.2.1",
+    "@isaacs/ttlcache": "1.4.1",
     "@sentry/node": "7.119.2",
     "@slack/webhook": "7.0.4",
     "@tryghost/activitypub": "0.0.0",
